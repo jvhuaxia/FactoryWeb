@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* marqueeleft */
+.marqueeleft{height:185px; width:713px; overflow:hidden;}
+.marqueeleft ul{float:left;}
+.marqueeleft li{width:168px; display:block; float:left; padding:5px;}
